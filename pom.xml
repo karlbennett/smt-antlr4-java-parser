@@ -8,14 +8,14 @@
         <version>1.0</version>
     </parent>
 
-    <artifactId>smt-java-parser</artifactId>
+    <artifactId>smt-antlr4-java-parser</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <packaging>jar</packaging>
 
     <name>${project.artifactId}</name>
 
-    <description>This project, when built, will generate Antlr Java parsing classes.</description>
+    <description>This project, when built, will generate ANTLR4 Java parsing classes.</description>
 
     <url>http://karlbennett.github.io/${project.artifactId}/</url>
 
